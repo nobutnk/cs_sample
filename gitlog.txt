@@ -1,0 +1,80 @@
+commit 7cf43a339007336f3c292560cc2e29323fd9301f
+Author:     nobutnk <nobutnk@gmail.com>
+AuthorDate: Sat Sep 22 01:38:56 2018 +0900
+Commit:     nobutnk <nobutnk@gmail.com>
+CommitDate: Sat Sep 22 01:38:56 2018 +0900
+
+    add 3rd line
+
+commit 85f5e47c62e0b2c26a8fc2aa519d6c6b80b1a64a
+Merge: 78d8331 0568d39
+Author:     nobutnk <nobutnk@gmail.com>
+AuthorDate: Sat Sep 22 01:35:55 2018 +0900
+Commit:     nobutnk <nobutnk@gmail.com>
+CommitDate: Sat Sep 22 01:35:55 2018 +0900
+
+    fixed conflict
+
+commit 78d83315dba59f410e83ccddd9b77118b9254b84
+Author:     nobutnk <nobutnk@gmail.com>
+AuthorDate: Sat Sep 22 01:30:28 2018 +0900
+Commit:     nobutnk <nobutnk@gmail.com>
+CommitDate: Sat Sep 22 01:33:01 2018 +0900
+
+    add TEST.md
+
+commit e465d587d4bd414caca2aabdad0a1362aaabc026
+Author:     nobutnk <nobutnk@gmail.com>
+AuthorDate: Sat Sep 22 01:27:22 2018 +0900
+Commit:     nobutnk <nobutnk@gmail.com>
+CommitDate: Sat Sep 22 01:32:41 2018 +0900
+
+    modify README.md
+
+commit 0568d39211bb86dcc9ccf29caf5c7cb6ea130f3b
+Author:     nobutnk <nobutnk@gmail.com>
+AuthorDate: Sat Sep 22 01:30:28 2018 +0900
+Commit:     nobutnk <nobutnk@gmail.com>
+CommitDate: Sat Sep 22 01:30:28 2018 +0900
+
+    add TEST.md
+
+commit 0625b33871bf5a24bfc293628c03c2c410ec49e0
+Author:     nobutnk <nobutnk@gmail.com>
+AuthorDate: Sat Sep 22 01:27:22 2018 +0900
+Commit:     nobutnk <nobutnk@gmail.com>
+CommitDate: Sat Sep 22 01:27:22 2018 +0900
+
+    modify README.md
+
+commit b3cafa4c98616dcba722e7285a16f5a49464a9be
+Author:     nobutnk <nobutnk@gmail.com>
+AuthorDate: Fri Sep 21 21:18:36 2018 +0900
+Commit:     nobutnk <nobutnk@gmail.com>
+CommitDate: Fri Sep 21 21:18:36 2018 +0900
+
+    VersionDescriptorの指定方法追加
+
+commit c5a6dfb8aaa30d1bac957aed3dc1f3c0f3a220aa
+Author:     nobutnk <nobutnk@gmail.com>
+AuthorDate: Fri Sep 21 09:27:29 2018 +0900
+Commit:     nobutnk <nobutnk@gmail.com>
+CommitDate: Fri Sep 21 09:27:29 2018 +0900
+
+    branch設定方法見直し
+
+commit 700757dc5ead680c5e88dea4bbe9d206b8fb4629
+Author:     nobutnk <nobutnk@gmail.com>
+AuthorDate: Fri Sep 21 00:55:47 2018 +0900
+Commit:     nobutnk <nobutnk@gmail.com>
+CommitDate: Fri Sep 21 00:55:47 2018 +0900
+
+    add c# class for tfs git client utility
+
+commit 2b3ba58475319df3c42cc65d79c325efebfcdc33
+Author:     Nobuyuki Tanaka <nobutnk@gmail.com>
+AuthorDate: Fri Sep 21 00:30:16 2018 +0900
+Commit:     GitHub <noreply@github.com>
+CommitDate: Fri Sep 21 00:30:16 2018 +0900
+
+    Initial commit
